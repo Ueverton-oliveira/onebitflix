@@ -1,0 +1,42 @@
+{
+  "name": "onebitflix",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "axios": "^0.18.0",
+    "jquery": "^3.3.1",
+    "material-design-icons-iconfont": "^3.0.3",
+    "vue": "^2.5.16",
+    "vue-dplayer": "^0.0.9",
+    "vue-loader": "14.2.2",
+    "vue-rate-it": "^2.1.0",
+    "vue-router": "^3.0.1",
+    "vue-slick": "^1.1.12",
+    "vue-template-compiler": "^2.5.16",
+    "vuetify": "^1.0.18",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  },
+  "description": "This README would normally document whatever steps are necessary to get the application up and running.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OneBitCodeBlog/onebitflix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OneBitCodeBlog/onebitflix/issues"
+  },
+  "homepage": "https://github.com/OneBitCodeBlog/onebitflix#readme"
+}
